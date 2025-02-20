@@ -1,5 +1,5 @@
 # The-Blocksmiths
-# P2P Chat Program - Team :: The Blocksmiths
+# P2P Chat Program - Team : The Blocksmiths
 
 ##  Team Members:
 - **Gayathri Manaswini K** - Roll Number: **230001038**
